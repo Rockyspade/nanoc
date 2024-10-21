@@ -78,3 +78,4 @@ jobs:
       - name: Test guard-nanoc
         run: bundle exec rake guard_nanoc:test
         timeout-minutes: 3
+              
